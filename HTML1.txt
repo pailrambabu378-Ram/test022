@@ -1,0 +1,7 @@
+<DOTHTML>
+<HTML>
+<HEAD>
+<BODY>
+<h> < the first heading> </h>
+<p> < the last heading> </p>
+</BODY>
